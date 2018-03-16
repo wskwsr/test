@@ -1,2 +1,2 @@
 <?php
-    echo 'haha';
+    echo '呵呵呵呵呵';
